@@ -167,3 +167,4 @@ blackhole/
 
 # Tokens
 shared/tokens.json
+.vscode/settings.json
